@@ -8,8 +8,10 @@ import "./HeaderMain.css";
 const HeaderMain = () => {
   return (
     <div className="header-main">
-      <Navbar />
+      
+
       <div className="bg"></div>
+      <Navbar />
       <div className="hero">
         <h1>A picture is worth a thousand words</h1>
         <p>
